@@ -1,5 +1,8 @@
 _repo: First-Principles_55046
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55046-h/images/cover.jpg
 creator:
   author:
     agent_name: Spencer, Herbert
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1887
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55046#First-Principles
 gutenberg_issued: '2017-07-05'
 gutenberg_type: Text
 identifiers:
